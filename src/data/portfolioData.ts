@@ -9,7 +9,7 @@ export const profileData: ProfileData = {
   location: 'Jaipur, Rajasthan, India',
   phone: '+91 9509959909',
   email: 'mk14novm@gmail.com',
-  linkedin: 'https://linkedin.com/in/mohit-khandelwal',
+  linkedin: 'https://in.linkedin.com/in/mohit-khandelwal-6930b01b3',
   github: 'https://github.com/mohit-khandelwal',
   cvPdfPath: '/Mohit_Khandelwal_React_Native_Developer_CV.pdf',
   cvFilename: 'Mohit_Khandelwal_React_Native_Developer_CV.pdf',
