@@ -319,7 +319,7 @@ async function generateCV() {
       ]
     },
     {
-      title: 'Activi - Software Engineer | E-Learning & Commerce',
+      title: 'Activili - Software Engineer | E-Learning & Commerce',
       date: 'Feb 2022 - Sep 2023',
       bullets: [
         'Delivered a multi-role e-learning platform (learner, seller, instructor) with RESTful API integration and role-based navigation, cutting onboarding time by 40%.',

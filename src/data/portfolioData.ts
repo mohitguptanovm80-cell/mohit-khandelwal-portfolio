@@ -324,8 +324,8 @@ export const workExperienceData: WorkExperience[] = [
         technologies: ['React Native', 'TypeScript', 'Redux Toolkit', 'WebSockets', 'Stripe', 'Razorpay', 'Clean Architecture'],
       },
       {
-        id: 'activi',
-        client: 'Activi',
+        id: 'activili',
+        client: 'Activili',
         domain: 'E-Learning & Commerce',
         role: 'Software Engineer',
         period: 'Feb 2022 – Sep 2023',
